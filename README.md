@@ -1,5 +1,5 @@
 # Trendyol Order Export Tool
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 Python utility that extracts Trendyol orders without invoice and exports
 client billing and shipping addresses into an Excel file.
 
